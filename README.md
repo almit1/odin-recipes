@@ -1,3 +1,3 @@
 # odin-recipes
 
-First readme test for The Odin Project
+First README edit test for The Odin Project
